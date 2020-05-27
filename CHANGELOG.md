@@ -1,6 +1,6 @@
 ### Unreleased
 
-- **Feature:** Support for`:oauth-token` ([#1](https://github.com/martinklepsch/clj-http-lite/pull/7))
+- **Feature:** Support for`:oauth-token` ([#7](https://github.com/martinklepsch/clj-http-lite/pull/7))
 
 ### 0.4.3
 
